@@ -3,14 +3,25 @@ This project is a Call Center Dashboard, designed to provide insights into call 
 <br />
 
 
-<h2>Key Features</h2>
+## Key Features
 
-- <b>Call Volume Analysis - Breakdown of total calls by day, state, and city to identify peak times and high-activity regions.</b> 
-- <b>Channel Distribution - Analyze the proportion of calls across different communication channels (Call-Center, Web, Chatbot, Email).</b>
-- <b>Sentiment Insights - Evaluate customer sentiment (Very Negative, Negative, Neutral, Positive, Very Positive) to gauge satisfaction levels.</b>
-- <b>Reason-Based Trends - Identify the most common reasons for calls (e.g., Billing Questions, Service Outages, Payments) to address frequent issues.</b>
-- <b>Performance Metrics - Monitor key operational metrics like average call duration, response time percentage, and total call duration.</b>
-- <b>Interactive Filtering - Easily filter data by date, channel, and city to gain deeper insights into specific segments.</b>
+- **Call Volume Analysis: Peak Times and Regional Insights**  
+This feature breaks down total calls by day, state, and city, identifying peak times and high-activity regions to optimize staffing and resource allocation effectively.
+
+- **Channel Distribution: Communication Channel Breakdown**  
+Analyze the proportion of calls across different communication channels (Call-Center, Web, Chatbot, Email), providing insights into channel usage and customer preferences.
+
+- **Sentiment Insights: Customer Satisfaction Evaluation**  
+Evaluate customer sentiment across categories (Very Negative, Negative, Neutral, Positive, Very Positive), gauging satisfaction levels to improve service quality and customer experience.
+
+- **Reason-Based Trends: Common Call Reasons Identification**  
+Identify the most frequent reasons for calls, such as Billing Questions, Service Outages, and Payments, enabling targeted solutions to address recurring customer issues.
+
+- **Performance Metrics: Operational Efficiency Monitoring**  
+Monitor key operational metrics like average call duration, response time percentage, and total call duration, helping to assess and enhance call center performance.
+
+- **Interactive Filtering: Segment-Specific Data Exploration**  
+Easily filter data by date, channel, and city, allowing users to dive deeper into specific segments and gain tailored insights for decision-making.
 
 
 <h2>Tech Stack </h2>
